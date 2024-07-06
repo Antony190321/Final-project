@@ -1,0 +1,9 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
